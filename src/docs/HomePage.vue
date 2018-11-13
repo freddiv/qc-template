@@ -1,6 +1,6 @@
 <template>
     <div>
-      <EdgeHeader color="teal darken-1"/>
+      <EdgeHeader color="blue darken-1"/>
       <div class="container free-bird">
         <row>
           <column md="10" class="mx-auto float-none white z-depth-1 py-2 px-2">
